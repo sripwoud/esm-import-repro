@@ -11,6 +11,10 @@ importers:
       '@zk-kit/eddsa-poseidon':
         specifier: ^1.0.2
         version: 1.0.2
+    devDependencies:
+      typescript:
+        specifier: ^5.6.2
+        version: 5.6.2
 
 packages:
 
@@ -31,6 +35,11 @@ packages:
 
   ieee754@1.2.1:
     resolution: {integrity: sha512-dcyqhDvX1C46lXZcVqCpK+FtMRQVdIMN6/Df5js2zouUsqG7I6sFxitIC+7KYK29KdXOLHdu9zL4sFnoVQnqaA==}
+
+  typescript@5.6.2:
+    resolution: {integrity: sha512-NW8ByodCSNCwZeghjN3o+JX5OFH0Ojg6sadjEKY4huZ52TqbJTJnDo5+Tw98lSy63NZvi4n+ez5m2u5d4PkZyw==}
+    engines: {node: '>=14.17'}
+    hasBin: true
 
 snapshots:
 
@@ -56,3 +65,5 @@ snapshots:
       ieee754: 1.2.1
 
   ieee754@1.2.1: {}
+
+  typescript@5.6.2: {}
