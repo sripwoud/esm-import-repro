@@ -10,10 +10,19 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "@zk-kit/eddsa-poseidon": "^1.0.2"
-  },
   "devDependencies": {
     "typescript": "^5.6.2"
+  },
+  "dependencies": {
+    "@zk-kit/baby-jujub": "link:/home/sripwoud/code/zk-kit/zk-kit/packages/baby-jujub",
+    "@zk-kit/eddsa-poseidon": "link:/home/sripwoud/code/zk-kit/zk-kit/packages/eddsa-poseidon",
+    "@zk-kit/imt": "link:/home/sripwoud/code/zk-kit/zk-kit/packages/imt",
+    "@zk-kit/lazytower": "link:/home/sripwoud/code/zk-kit/zk-kit/packages/lazytower",
+    "@zk-kit/lean-imt": "link:/home/sripwoud/code/zk-kit/zk-kit/packages/lean-imt",
+    "@zk-kit/logical-expressions": "link:/home/sripwoud/code/zk-kit/zk-kit/packages/logical-expressions",
+    "@zk-kit/poseidon-cipher": "link:/home/sripwoud/code/zk-kit/zk-kit/packages/poseidon-cipher",
+    "@zk-kit/poseidon-proof": "link:/home/sripwoud/code/zk-kit/zk-kit/packages/poseidon-proof",
+    "@zk-kit/smt": "link:/home/sripwoud/code/zk-kit/zk-kit/packages/smt",
+    "@zk-kit/utils": "link:/home/sripwoud/code/zk-kit/zk-kit/packages/utils"
   }
 }
