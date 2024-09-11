@@ -9,8 +9,8 @@ importers:
   .:
     dependencies:
       '@zk-kit/baby-jujub':
-        specifier: link:/home/sripwoud/code/zk-kit/zk-kit/packages/baby-jujub
-        version: link:../zk-kit/packages/baby-jujub
+        specifier: link:/home/sripwoud/code/zk-kit/zk-kit/packages/baby-jubjub
+        version: link:../zk-kit/packages/baby-jubjub
       '@zk-kit/eddsa-poseidon':
         specifier: link:/home/sripwoud/code/zk-kit/zk-kit/packages/eddsa-poseidon
         version: link:../zk-kit/packages/eddsa-poseidon
